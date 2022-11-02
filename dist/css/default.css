@@ -1,0 +1,37 @@
+.jconfirm-box-container {
+    left: 30% !important;
+}
+
+.card {
+    margin-left: 25px;
+}
+
+label {
+    margin-top: 15px !important;
+}
+
+body>.wrapper>.content-wrapper {
+    padding-bottom: 3.5em !important;
+}
+
+section.content-header {
+    border-bottom: 1px solid #707070;
+    margin-bottom: 1em;
+}
+
+.logo-xl,
+.logo-xs {
+    width: 100% !important;
+    left: 0 !important;
+    top: 0.8em !important;
+}
+
+.dark-mode .jconfirm-box {
+    background: #000;
+    color: #fff !important;
+    border-radius: 0px;
+}
+
+.jconfirm-scrollpane {
+    background: #ffffff54;
+}
