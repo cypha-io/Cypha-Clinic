@@ -12626,7 +12626,7 @@
 		 *    //   { "phone": 5552368, "phone_filter": "5552368 555-2368", "phone_display": "555-2368" }
 		 *    // Here the `phone` integer is used for sorting and type detection, while `phone_filter`
 		 *    // (which has both forms) is used for filtering for if a user inputs either format, while
-		 *    // the formatted phone number is the one that is shown in the table.
+		 *    // the formatted Parent Phone Number is the one that is shown in the table.
 		 *    $(document).ready( function() {
 		 *      $('#example').dataTable( {
 		 *        "columnDefs": [ {
@@ -14293,7 +14293,7 @@
 			 *
 			 * The type based searching functions can be used to pre-format the
 			 * data to be search on. For example, it can be used to strip HTML
-			 * tags or to de-format telephone numbers for numeric only searching.
+			 * tags or to de-format teleParent Phone Numbers for numeric only searching.
 			 *
 			 * Note that is a search is not defined for a column of a given type,
 			 * no search formatting will be performed.

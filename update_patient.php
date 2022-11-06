@@ -163,7 +163,7 @@ include './config/sidebar.php';?>
               
               </div>
               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-10">
-                <label>Phone Number</label>
+                <label>Parent Phone Number</label>
                 <input type="text" id="phone_number" name="phone_number" required="required"
                 class="form-control form-control-sm rounded-0" value="<?php echo $row['phone_number'];?>" />
               </div>

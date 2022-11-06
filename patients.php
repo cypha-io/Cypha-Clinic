@@ -152,7 +152,7 @@ include './config/sidebar.php';?>
                 </div>
               </div>
               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-10">
-                <label>Phone Number</label>
+                <label>Parent Phone Number</label>
                 <input type="text" id="phone_number" name="phone_number" required="required"
                 class="form-control form-control-sm rounded-0"/>
               </div>
@@ -213,7 +213,7 @@ include './config/sidebar.php';?>
                     <th>Address</th>
                     <th>ID</th>
                     <th>Date Of Birth</th>
-                    <th>Phone Number</th>
+                    <th>Parent Phone Number</th>
                     <th>Gender</th>
                     <th>Action</th>
                   </tr>
